@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-clases-personalizadas.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Clases personalizadas | Lynx Pardelle",
+    "description": "Aprende una técnica que quieras aplicar a tu trabajo, desde editar audio en Ableton Live o FL Studio hasta practicar diseño sonoro, teoría musical, animación o desarrollo web.",
+    "canonical": "https://servicio-clases-personalizadas.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-formacion.webp"
+    }
+  }
+}
