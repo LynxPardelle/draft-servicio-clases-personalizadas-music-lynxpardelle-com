@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Clases personalizadas | Lynx Pardelle",
-    "description": "Aprende una técnica que quieras aplicar a tu trabajo, desde editar audio en Ableton Live o FL Studio hasta practicar diseño sonoro, teoría musical, animación o desarrollo web.",
+    "title": "Clases personalizadas de producción musical, diseño y web | Lynx Pardelle",
+    "description": "Practica una técnica con ejemplos acordes a tu nivel. Consulta clases de audio, Ableton Live, FL Studio, teoría musical, diseño, animación o web.",
     "canonical": "https://servicio-clases-personalizadas.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-clases-personalizadas-r2-08ca2225ad0bf4a0.webp",
+      "title": "Clases personalizadas de producción musical, diseño y web | Lynx Pardelle",
+      "description": "Practica una técnica con ejemplos acordes a tu nivel. Consulta clases de audio, Ableton Live, FL Studio, teoría musical, diseño, animación o web.",
+      "url": "https://servicio-clases-personalizadas.music.lynxpardelle.com/",
+      "imageAlt": "Una sesión de práctica individual con teclado y computadora."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Clases personalizadas de producción musical, diseño y web | Lynx Pardelle",
+      "description": "Practica una técnica con ejemplos acordes a tu nivel. Consulta clases de audio, Ableton Live, FL Studio, teoría musical, diseño, animación o web.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-clases-personalizadas-r2-08ca2225ad0bf4a0.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-clases-personalizadas.music.lynxpardelle.com/#webpage",
+        "name": "Clases personalizadas",
+        "description": "Practica una técnica con ejemplos acordes a tu nivel. Consulta clases de audio, Ableton Live, FL Studio, teoría musical, diseño, animación o web.",
+        "url": "https://servicio-clases-personalizadas.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-clases-personalizadas.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-clases-personalizadas.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Clases personalizadas",
+        "description": "Practica una técnica con ejemplos acordes a tu nivel. Consulta clases de audio, Ableton Live, FL Studio, teoría musical, diseño, animación o web.",
+        "url": "https://servicio-clases-personalizadas.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-clases-personalizadas-r2-08ca2225ad0bf4a0.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Clases personalizadas"
+      }
+    ]
   }
 }
